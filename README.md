@@ -1,6 +1,7 @@
 <!-- typing effect -->
 [![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=435&lines=hi+i'm+niko;aka+desgubernamentalizar+%2F+ecstasyck;20+y%2Fo+front-end+focused+dev)](https://github.com/nikoriki)
 
+
 ---
 
 aka `desgubernamentalizar` / `ecstasyck`  
