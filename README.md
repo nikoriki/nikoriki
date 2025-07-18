@@ -7,6 +7,7 @@
 aka `desgubernamentalizar` / `ecstasyck`  
 20 y/o — frontend focused, but i speak:  
 → javascript · python · html/css · c++
+cybersecurity student, currently doing a cybersecurity master's degree, 2nd year
 
 building interfaces that feel alive.
 
