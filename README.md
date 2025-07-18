@@ -26,7 +26,7 @@ building interfaces that feel alive.
 
 ---
 
-### activity heatmap 🔥
+### activity graph 📈
 
 ![niko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikoriki&theme=tokyo-night&hide_border=true)
 
